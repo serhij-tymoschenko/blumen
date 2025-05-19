@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.20b56a08.js",
+    "main.js": "/static/js/main.4857ebce.js",
     "static/js/453.b061ba6b.chunk.js": "/static/js/453.b061ba6b.chunk.js",
+    "static/media/bmc-yellow-button.png": "/static/media/bmc-yellow-button.8f9b246531e2bbaab0cf.png",
     "index.html": "/index.html",
     "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.20b56a08.js.map": "/static/js/main.20b56a08.js.map",
+    "main.4857ebce.js.map": "/static/js/main.4857ebce.js.map",
     "453.b061ba6b.chunk.js.map": "/static/js/453.b061ba6b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.20b56a08.js"
+    "static/js/main.4857ebce.js"
   ]
 }
